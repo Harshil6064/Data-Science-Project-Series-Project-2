@@ -1,2 +1,2 @@
-# Data-Science-Project-Series-Project-2
+# Data-Science-Project-2
 Internship Project
